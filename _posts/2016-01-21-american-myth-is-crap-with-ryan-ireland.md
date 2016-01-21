@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-21T00:48:41.959Z'
-dateModified: '2016-01-21T00:48:16.710Z'
+datePublished: '2016-01-21T00:53:00.582Z'
+dateModified: '2016-01-21T00:52:58.176Z'
 title: american myth is crap (with ryan ireland)
 author: []
 authors: []
